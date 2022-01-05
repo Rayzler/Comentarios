@@ -1,1 +1,8 @@
 /node_modules/
+/sass/.sass-cache/
+/sass/custom.scss
+/package.json
+/package-lock.json
+/sass/custom.css
+/sass/custom.css.map
+/.idea/
